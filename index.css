@@ -1,0 +1,152 @@
+#nav{
+   display: flex;
+   justify-content: space-around;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   background-color: white;
+   margin: auto;
+   
+ }
+ nav{
+  background-color: white;
+
+}
+
+ #nav1{
+    display: flex;
+    flex-direction: column;
+  
+ }
+
+ body{
+  background-color: #F1F2F4;
+}
+ #logo_name{
+     font-size: 20px;
+     font-family: sans-serif;
+     font-style: italic;
+     color: #2A55E5;
+     font-weight: bold;
+    
+ }
+
+ 
+ #input_data{
+   border: none;
+   width: 600px;
+   height: 30px;
+   background-color: #F0F5FF ;
+  padding-left: 12px;
+   font-size: large;
+   outline: 0;
+  border:none;
+ }
+
+ .navtab{
+   display: flex;
+   align-items: center;
+   font-size:18px;
+   font-family:sans-serif; 
+   padding-left:10px;
+  
+  
+ }
+ #searchbar{
+  background-color: #F0F5FF;
+  padding: 4px;
+  border-radius: 10px;
+  outline: 0;
+  border:none;
+ }
+
+ 
+
+
+
+#categories{
+  display: flex;
+  justify-content:space-around;
+  margin-top: 6px;
+  margin: 12px;
+  margin: auto;
+  width: 98%;
+  margin: auto;
+  background-color: white;
+  margin-top: 10px;
+  font-family: sans-serif;
+  
+}
+
+#categories>div>img{
+  
+  background-color: white;
+   height: 65px;
+   width: 65px ;
+   margin-left: 20px;
+}
+
+#categories>div{
+   display: flex;
+   flex-direction: column;
+  text-align: center; 
+  font-weight: bold;
+  font-size: 14px;
+  padding: 10px;
+
+}
+#categories{
+   padding-top: 10px;
+}
+
+.image{
+  width: 80px;
+  display: flex;
+  position: absolute  ;
+  margin-right: ;
+}
+.bank{
+  margin-top: 15px;
+  height: 100px;
+  width: 99%;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.sellphone{
+  
+  display: flex;
+  margin-top:  30px;
+  background-color: white;
+  height: 400px;
+  width: 97%;
+  margin-right: 100px;
+  margin-left: 20px;
+  
+}
+.box{
+  border:  1px solid #E0E0E0;
+  display: flex;
+  margin-top: 70px;
+  width: 50%;
+  height: 200px;
+ margin-right: 20px;
+ margin-left: 10px;
+}
+.Bes{
+  display: flex;
+  font-weight: 600;
+  margin-top: 2px;
+  margin-left: 30px;
+  margin-top: 3px;
+}
+
+.LG{
+  height: 10px;
+  width: 10px;
+}
+.sellphone>img{
+  fo
+}
+
+.sellphone>div>img{
+  height: 200px;
+}
